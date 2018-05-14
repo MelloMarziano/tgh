@@ -1,0 +1,14 @@
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\bin\Debug\tgh.exe.config
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\bin\Debug\tgh.exe
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\bin\Debug\tgh.pdb
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.csprojResolveAssemblyReference.cache
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Form1.resources
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Properties.Resources.resources
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Entrada.resources
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.csproj.GenerateResource.Cache
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.exe
+c:\users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.pdb
+C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Salida.resources
+C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Servicios.resources
+C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Mecanicos.resources
+C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Inventario.resources
