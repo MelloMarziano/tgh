@@ -52,5 +52,12 @@ namespace tgh
             frm.MdiParent = this;
             frm.Show();
         }
+
+        private void reporteMantenimientoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Mantenimiento frm = new Mantenimiento();
+            frm.MdiParent = this;
+            frm.Show();
+        }
     }
 }

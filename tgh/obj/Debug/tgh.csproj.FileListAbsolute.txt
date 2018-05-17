@@ -12,3 +12,4 @@ C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views
 C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Servicios.resources
 C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Mecanicos.resources
 C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Inventario.resources
+C:\Users\eliuo\documents\visual studio 2013\Projects\tgh\tgh\obj\Debug\tgh.Views.Mantenimiento.resources

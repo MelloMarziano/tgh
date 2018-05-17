@@ -64,6 +64,12 @@
     <Compile Include="Views\Inventario.Designer.cs">
       <DependentUpon>Inventario.cs</DependentUpon>
     </Compile>
+    <Compile Include="Views\Mantenimiento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\Mantenimiento.Designer.cs">
+      <DependentUpon>Mantenimiento.cs</DependentUpon>
+    </Compile>
     <Compile Include="Views\Mecanicos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -93,12 +99,16 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="Views\Entrada.resx">
       <DependentUpon>Entrada.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Inventario.resx">
       <DependentUpon>Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\Mantenimiento.resx">
+      <DependentUpon>Mantenimiento.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Views\Mecanicos.resx">
       <DependentUpon>Mecanicos.cs</DependentUpon>
@@ -125,6 +135,9 @@
   <ItemGroup>
     <Folder Include="Controls\" />
     <Folder Include="Models\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magnifying-glass.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
